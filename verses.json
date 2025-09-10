@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "id": "faith",
+      "name": "Faith & Trust",
+      "color": "#4A90E2",
+      "icon": "favorite",
+      "gradient": ["#4A90E2", "#357ABD"]
+    },
+    {
+      "id": "hope",
+      "name": "Hope & Encouragement",
+      "color": "#50C878",
+      "icon": "wb-sunny",
+      "gradient": ["#50C878", "#3A9B5C"]
+    },
+    {
+      "id": "love",
+      "name": "Love & Relationships",
+      "color": "#FF6B6B",
+      "icon": "favorite",
+      "gradient": ["#FF6B6B", "#E55555"]
+    }
+  ],
+  "verses": {
+    "love": [
+      {
+        "id": "john-3-16",
+        "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+        "reference": "John 3:16",
+        "category": "love",
+        "theme": "God's Love",
+        "keywords": ["love", "eternal life", "salvation", "believe"],
+        "context": "Jesus explaining God's love to Nicodemus",
+        "relatedVerses": ["Romans 5:8", "1 John 4:9-10"]
+      }
+    ],
+    "hope": [
+      {
+        "id": "romans-8-28",
+        "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+        "reference": "Romans 8:28",
+        "category": "hope",
+        "theme": "God's Sovereignty",
+        "keywords": ["good", "purpose", "called", "love God"],
+        "context": "Paul's teaching on life in the Spirit",
+        "relatedVerses": ["Jeremiah 29:11", "Romans 8:31-39"]
+      }
+    ],
+    "faith": [
+      {
+        "id": "philippians-4-13",
+        "text": "I can do all this through him who gives me strength.",
+        "reference": "Philippians 4:13",
+        "category": "faith",
+        "theme": "Strength in Christ",
+        "keywords": ["strength", "can do", "through Christ"],
+        "context": "Paul's contentment in all circumstances",
+        "relatedVerses": ["2 Corinthians 12:9", "Isaiah 40:31"]
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-09-10T12:00:00Z",
+    "totalCategories": 3,
+    "totalVerses": 3
+  }
+}
