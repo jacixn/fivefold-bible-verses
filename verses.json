@@ -11,7 +11,7 @@
       "id": "hope",
       "name": "Hope & Encouragement",
       "color": "#50C878",
-      "icon": "light_mode",
+      "icon": "star",
       "gradient": ["#50C878", "#3A9B5C"]
     },
     {
@@ -32,14 +32,14 @@
       "id": "strength",
       "name": "Strength & Courage",
       "color": "#E67E22",
-      "icon": "fitness_center",
+      "icon": "star",
       "gradient": ["#E67E22", "#D35400"]
     },
     {
       "id": "wisdom",
       "name": "Wisdom & Guidance",
       "color": "#F39C12",
-      "icon": "lightbulb",
+      "icon": "star",
       "gradient": ["#F39C12", "#E67E22"]
     },
     {
@@ -53,7 +53,7 @@
       "id": "prayer",
       "name": "Prayer & Worship",
       "color": "#9C27B0",
-      "icon": "church",
+      "icon": "place",
       "gradient": ["#9C27B0", "#7B1FA2"]
     },
     {
@@ -74,8 +74,8 @@
       "id": "protection",
       "name": "Protection & Safety",
       "color": "#607D8B",
-      "icon": "shield",
-      "gradient": ["#607D8B", "#455A64"]
+      "icon": "security",
+      "gradient": ["607D8B", "#455A64"]
     },
     {
       "id": "provision",
@@ -102,28 +102,28 @@
       "id": "perseverance",
       "name": "Perseverance & Endurance",
       "color": "#FF9800",
-      "icon": "trending_up",
+      "icon": "star",
       "gradient": ["#FF9800", "#F57C00"]
     },
     {
       "id": "humility",
       "name": "Humility & Service",
       "color": "#8BC34A",
-      "icon": "volunteer_activism",
+      "icon": "star",
       "gradient": ["#8BC34A", "#689F38"]
     },
     {
       "id": "gratitude",
       "name": "Gratitude & Thanksgiving",
       "color": "#FFC107",
-      "icon": "thumb_up",
+      "icon": "star",
       "gradient": ["#FFC107", "#FF8F00"]
     },
     {
       "id": "family",
       "name": "Family & Marriage",
       "color": "#E91E63",
-      "icon": "family_restroom",
+      "icon": "star",
       "gradient": ["#E91E63", "#C2185B"]
     },
     {
@@ -137,7 +137,7 @@
       "id": "money",
       "name": "Money & Generosity",
       "color": "#009688",
-      "icon": "attach_money",
+      "icon": "star",
       "gradient": ["#009688", "#00695C"]
     },
     {
@@ -151,7 +151,7 @@
       "id": "leadership",
       "name": "Leadership & Authority",
       "color": "#2196F3",
-      "icon": "groups",
+      "icon": "group",
       "gradient": ["#2196F3", "#1976D2"]
     },
     {
@@ -172,7 +172,7 @@
       "id": "eternal-life",
       "name": "Eternal Life & Heaven",
       "color": "#AB47BC",
-      "icon": "stars",
+      "icon": "star",
       "gradient": ["#AB47BC", "#8E24AA"]
     },
     {
@@ -581,7 +581,7 @@
   },
   "metadata": {
     "version": "1.0.0",
-    "lastUpdated": "2024-09-10T23:50:00Z",
+    "lastUpdated": "2024-09-10T23:55:00Z",
     "totalCategories": 30,
     "totalVerses": 36
   }
