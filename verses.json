@@ -11,7 +11,7 @@
       "id": "hope",
       "name": "Hope & Encouragement",
       "color": "#50C878",
-      "icon": "wb-sunny",
+      "icon": "wb_sunny",
       "gradient": ["#50C878", "#3A9B5C"]
     },
     {
@@ -32,7 +32,7 @@
       "id": "strength",
       "name": "Strength & Courage",
       "color": "#E67E22",
-      "icon": "fitness-center",
+      "icon": "fitness_center",
       "gradient": ["#E67E22", "#D35400"]
     },
     {
@@ -60,7 +60,7 @@
       "id": "salvation",
       "name": "Salvation & Redemption",
       "color": "#FF5722",
-      "icon": "cross",
+      "icon": "add",
       "gradient": ["#FF5722", "#E64A19"]
     },
     {
@@ -95,35 +95,35 @@
       "id": "obedience",
       "name": "Obedience & Discipleship",
       "color": "#795548",
-      "icon": "follow-the-signs",
+      "icon": "directions",
       "gradient": ["#795548", "#5D4037"]
     },
     {
       "id": "perseverance",
       "name": "Perseverance & Endurance",
       "color": "#FF9800",
-      "icon": "trending-up",
+      "icon": "trending_up",
       "gradient": ["#FF9800", "#F57C00"]
     },
     {
       "id": "humility",
       "name": "Humility & Service",
       "color": "#8BC34A",
-      "icon": "volunteer-activism",
+      "icon": "volunteer_activism",
       "gradient": ["#8BC34A", "#689F38"]
     },
     {
       "id": "gratitude",
       "name": "Gratitude & Thanksgiving",
       "color": "#FFC107",
-      "icon": "thumb-up",
+      "icon": "thumb_up",
       "gradient": ["#FFC107", "#FF8F00"]
     },
     {
       "id": "family",
       "name": "Family & Marriage",
       "color": "#E91E63",
-      "icon": "family-restroom",
+      "icon": "family_restroom",
       "gradient": ["#E91E63", "#C2185B"]
     },
     {
@@ -137,7 +137,7 @@
       "id": "money",
       "name": "Money & Generosity",
       "color": "#009688",
-      "icon": "attach-money",
+      "icon": "attach_money",
       "gradient": ["#009688", "#00695C"]
     },
     {
