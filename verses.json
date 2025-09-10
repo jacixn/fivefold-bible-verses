@@ -11,7 +11,7 @@
       "id": "hope",
       "name": "Hope & Encouragement",
       "color": "#50C878",
-      "icon": "wb_sunny",
+      "icon": "light_mode",
       "gradient": ["#50C878", "#3A9B5C"]
     },
     {
@@ -578,6 +578,11 @@
         "relatedVerses": ["1 Corinthians 13:4-7", "Colossians 3:14"]
       }
     ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-09-10T23:50:00Z",
+    "totalCategories": 30,
+    "totalVerses": 36
   }
 }
-// Force update
